@@ -13,4 +13,5 @@ o	Plot a bar graph of count vs. complaint types
 	Visualize the complaint types
 o	Display the major complaint types and their count
 
-The required resources for this project is available in Downloads section (Learning Tools > Downloads > Projects). Good Luck!
+Note:- One can download the Dataset for this project directly by searching "311 NYC service request" project dataset from google.
+Due to large size of dataset. I am not able to upload on Github. 
